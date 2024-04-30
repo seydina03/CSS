@@ -1,0 +1,40 @@
+.table{
+    border-collapse: collapse;
+    width: 700px;
+    padding: 40px;
+}
+.T1{
+    table-layout: fixed;
+
+}
+.t1{
+    background-color: black;
+    color:white;
+    border-spacing: 0px;
+
+}
+.t2{
+    background-color: black;
+    color:white;
+    border-spacing: 0px;
+
+}
+.t3{
+    background-color: black;
+    color:white;
+    border-spacing: 0px;
+
+}
+.t4{
+    background-color: black;
+    color:white;
+    border-spacing: 0px;
+
+}
+
+td, th{
+    padding: 7px; 
+    border: 1px solid; 
+    text-align: center;
+    }
+    
