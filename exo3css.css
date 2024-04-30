@@ -1,0 +1,31 @@
+*{
+    background-color: #5c94fc;
+}
+.div1{
+    background-color: #4976c9;
+    border: 3px solid black;
+    width: 10%;
+    padding: 40px;
+    margin-left: 40px;
+}
+.div2{
+    background-color: #375897;
+    border: 3px solid black;
+    width: 20%;
+    padding: 50px;
+    margin-left: 40px;
+}
+.div3{
+    background-color: #243b64;
+    border: 3px solid black;
+    width: 30%;
+    padding: 60px;
+    margin-left: 40px;
+}
+.div4{
+    background-color: #121d32;
+    border: 3px solid black;
+    width: 50%;
+    padding: 70px;
+    margin-left: 40px;
+}
